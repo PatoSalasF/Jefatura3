@@ -1,7 +1,7 @@
 +++
 title = "Salud Mental"
-date = "2020-10-17"
-author = "Sebastián Astroza"
+date = "2023-02-28"
+author = "Patricio Salas"
 +++
 
 > **No soy especialista en el tema** y lo mejor que puedo hacer es guiarle para que contacte a los profesionales adecuados. Sin embargo no puedo dejar de recomendarle lo siguiente: **si nota que algo anda mal en su ánimo, pida ayuda**. Ojalá a sus familiares y cercanos, pero en caso que no pueda, no deje de comentar la situación con sus compañer@s, profesores ( le dejo mi correo: sastroza@udec.cl ), o cualquier persona que a usted le parezca adecuada.   
